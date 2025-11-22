@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# Output (optional, but usually good to ignore generated files if they are large)
+# output/
